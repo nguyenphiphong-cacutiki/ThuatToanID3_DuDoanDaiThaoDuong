@@ -1,0 +1,19 @@
+co khong
+4
+mau_toc den ram bac
+chieu_cao tam_thuoc cao thap
+can_nang nhe vua_phai nang
+dung_thuoc co khong
+12
+den tam_thuoc nhe khong co
+den cao vua_phai co khong
+ram thap vua_phai co khong
+den thap vua_phai khong co
+bac tam_thuoc nang khong co
+ram cao nang khong khong
+ram tam_thuoc nang khong khong
+den thap nhe co khong
+ram cao nhe khong khong
+bac thap nhe khong co
+den thap nang co co
+den thap nang co khong
